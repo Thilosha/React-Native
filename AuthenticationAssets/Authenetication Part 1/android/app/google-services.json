@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1089295906201",
+    "project_id": "thriftzy-f3a3c",
+    "storage_bucket": "thriftzy-f3a3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089295906201:android:3bbb188f42dc1010ea8f08",
+        "android_client_info": {
+          "package_name": "com.authenetication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089295906201-ba36bj2anq4tjbac7tbr1aqdjfjrq3l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.authenetication",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1089295906201-pounkfi9nbr5482mjnng42m66a0tscpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4yssw7RNLtXmsYwOedJikpu8XJyj-BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089295906201-pounkfi9nbr5482mjnng42m66a0tscpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
