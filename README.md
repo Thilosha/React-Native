@@ -5,11 +5,7 @@ A simple example of how to implement login authentication in a React Native appl
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
